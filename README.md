@@ -1,1 +1,1 @@
-#simple capp to generate a JWT - session timed token 
+#simple app to generate a JWT - session timed token 
